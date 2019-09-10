@@ -1,0 +1,93 @@
+p
+{
+    font-family: arial
+}
+
+p
+{
+	color: gray;
+
+}
+#conteneur
+{
+	display:flex;
+	justify-content: space-around;
+	width: 28%;
+
+}	
+
+
+.google
+{
+	display: flex;
+	    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}	
+
+body
+{
+	font-family: arial;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 100vh;
+}
+
+header
+{
+	display: flex;
+	justify-content: flex-end;
+	margin: 20px;
+	}
+
+.barre
+{
+	display: flex;
+	justify-content: center;
+
+}
+
+.boutons
+{
+	display: flex;
+	margin: 20px;
+	justify-content: center;
+}
+
+.france
+{
+	display: flex;
+	align-items: flex-end;
+	
+}
+
+footer
+{
+	background-color: lightgray;
+	}
+
+.basgauche
+{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.gauche
+{
+}
+
+.droite
+{
+}	
+
+a
+{
+	color:black;
+
+}
+
+
+
+
